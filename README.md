@@ -2,6 +2,7 @@
 
 ### Try the game here:
 
+https://krishnanshvasaniya.github.io/Dino-Game/
 
 (On a mobile device, play in landscape orientation for the best experience)
 
